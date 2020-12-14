@@ -3,13 +3,13 @@
 - Basically it is a restaurant website which provide online order with different menu on everyday basis, it can help lots of people who work at the office and want to eat something different but home healthy food.
 
 ## Table of contents
-- [About](#About Restuarant/Food Delivery)
+- [About](#About_Restuarant/Food_Delivery)
 - [Responsibility](#Responsibility)
 - [Dependencies](#Dependencies)
 - [Developer](#Developer)
 
 
-### About Restuarant/Food Delivery
+### About_Restuarant/Food_Delivery
 - This website based on a restaurant food ordering, it's have the facility of online food and snacks ordering according to your need so user don't need to hustle in the queue for your fav. food or fav. snacks, and It's also have feature of table booking in case you have urgent meeting than book a table for you and meet whoever you want to.
 
 ### Responsibility
